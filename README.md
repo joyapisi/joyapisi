@@ -1,4 +1,19 @@
-### Hello! 👋
+### <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<h4> I'm Joy Phoebe </h4>
+<div> <img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" </div>
+
+
+- 🌱 I’m currently learning ReactJS and Ruby
+- 👯 I’m looking to collaborate on any javascript project (React, Redux)
+- 😄 Pronouns: she/her
+- 📫 How to reach me: 
+<div>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a"></div> 
+  
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
+  <a href="https://www.twitter.com/joyapisi"></div>
+
 
 <!--
 **joyapisi/joyapisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +35,4 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on any javascript project
-- 📫 How to reach me: https://www.linkedin.com/in/joy-phoebe-00b80a13a
-- 😄 Pronouns: she/her
 
