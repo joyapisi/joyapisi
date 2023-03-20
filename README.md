@@ -2,7 +2,7 @@
 <h4> I'm Joy Phoebe </h4>
 <div> <img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" </div>
 
-
+- 👩🏾‍💻 I'm skilled in HTML, CSS and vanilla JavaScript
 - 🌱 I’m currently learning ReactJS and Ruby
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
 - 😄 Pronouns: she/her
