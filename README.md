@@ -22,6 +22,8 @@
   <img src="https://media4.giphy.com/media/1oF1KAEYvmXBMo6uTS/100.webp?cid=ecf05e47dpb2fjsjgcrgvq6uwj4jtym2ru1vouhjt48e5ygb&rid=100.webp&ct=g"/>
 </div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyapisi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
