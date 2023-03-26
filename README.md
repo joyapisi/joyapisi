@@ -1,7 +1,8 @@
 ### <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <h4> I'm Joy Phoebe </h4>
-<div> <img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" </div>
+<img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s">
 
+ 
 - 👩🏾‍💻 I'm skilled in HTML, CSS and vanilla JavaScript
 - 🌱 I’m currently learning ReactJS and Ruby
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
