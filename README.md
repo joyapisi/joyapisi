@@ -24,11 +24,7 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 <p><a href="https://www.buymeacoffee.com/buy me coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee" /></a><a href="https://ko-fi.com/Tracy-miranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tracy-miranja" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-apisi&show_icons=true&locale=en&layout=compact" alt="joy-apisi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy-apisi&show_icons=true&locale=en" alt="joy-apisi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-apisi&" alt="joy-apisi" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoyPhoebeO&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 
