@@ -23,8 +23,7 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee" /></a><a href="https://ko-fi.com/Tracy-miranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tracy-miranja" /></a></p><br><br>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoyPhoebeO&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoyPhoebeO&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2C8362E0%2CEB5454)](https://git.io/streak-stats)
 
 
 
