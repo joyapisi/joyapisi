@@ -6,14 +6,15 @@
 - 👩🏾‍💻 I'm skilled in HTML, CSS and vanilla JavaScript
 - 🌱 I’m currently learning ReactJS and Ruby
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
-- 😄 Pronouns: she/her
-- 📫 How to reach me: 
+- 😄 Pronouns: she/her 
 <div>
 <br>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
  
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<br>
+- 📫 How to reach me:
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a"></div> 
   
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
@@ -25,10 +26,6 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee" /></a><a href="https://ko-fi.com/Tracy-miranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tracy-miranja" /></a></p><br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoyPhoebeO&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2C8362E0%2CEB5454)](https://git.io/streak-stats)
-
-
 
 <!--
 **joyapisi/joyapisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
