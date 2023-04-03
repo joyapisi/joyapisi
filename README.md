@@ -7,23 +7,21 @@
 - 🌱 I’m currently learning ReactJS and Ruby
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
 - 😄 Pronouns: she/her 
+- 📫 How to reach me: 
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a"></div> 
+ 
+ <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
+ <a href="https://www.twitter.com/joyapisi"></div>
+
 <div>
 <br>
  
 ### Github Streak
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
- 
-<br>
-- 📫 How to reach me: 
-<br>
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a"></div> 
-<br>
- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
- <a href="https://www.twitter.com/joyapisi"></div>
 
- ### Languages & Tools
+### Languages & Tools
 <link rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
