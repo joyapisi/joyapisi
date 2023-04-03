@@ -8,21 +8,31 @@
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
 - 😄 Pronouns: she/her 
 - 📫 How to reach me: 
- 
+<div display="flex" gap="30px">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a">  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
  <a href="https://www.twitter.com/joyapisi">
- 
+</div> 
+  
 ### Github Streak
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
 
 ### Languages & Tools
-<link rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80"  height="80" padding="20px"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" padding="20px"/> </a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" padding="20px"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" padding="20px"/> </a> 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50" padding="20px"/> </a> 
+<div display="flex" gap="20px">
+  <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
+ 
+<img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
+ 
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47upfsfvg32ba1ig27jzwq3bsmzjxqxadwgimxbtiq&rid=giphy.gif&ct=s" alt="javascript" width="60" height="60"/>
+ 
+<img src="https://media0.giphy.com/media/QWOSiVuUuNAJHXv0FX/giphy.gif?cid=ecf05e47eaqme9hxoleim882hxdoiwi3afjqs99ib3erllgo&rid=giphy.gif&ct=s" alt="photoshop" width="60" height="60"/>
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="100" top="20px"/>
+<div>  
+  
+
+
 
 
 <h3 align="left">Support:</h3>
