@@ -10,6 +10,9 @@
 - 📫 How to reach me: 
 <div>
 <br>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
+ 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a"></div> 
   
