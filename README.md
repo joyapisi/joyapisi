@@ -9,7 +9,9 @@
 - 😄 Pronouns: she/her 
 <div>
 <br>
-#### Github Streak
+ 
+### Github Streak
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
  
 <br>
@@ -21,7 +23,7 @@
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
  <a href="https://www.twitter.com/joyapisi"></div>
 
- #### LAnguages & Tools
+ ### Languages & Tools
 <link rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
