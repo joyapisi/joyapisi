@@ -8,18 +8,27 @@
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
 - 😄 Pronouns: she/her 
 - 📫 How to reach me: 
+
 <div display="flex" gap="30px">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a">  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social">
+ <a href="https://www.linkedin.com/in/joy-phoebe-00b80a13a">  
+ 
+ <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social" height="30px">
  <a href="https://www.twitter.com/joyapisi">
+  
+ <img alt="Email" src="https://media2.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif?cid=ecf05e47ukipqaw1s1qmrzmyeqcu30c1a5r1a9qvi367pawc&rid=giphy.gif&ct=s" height="40px" width="40px">
+ <a href="joyapisi@gmail.com">
 </div> 
   
 ### Github Streak
+<div display="flex">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454&card_width=300")](https://git.io/streak-stats)
 
 [![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyapisi&theme=bear)](https://github.com/joyapisi/github-readme-stats)
 
+</div>
+ 
 ### Languages & Tools
 <div display="flex" gap="20px">
   <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
@@ -31,11 +40,7 @@
 <img src="https://media0.giphy.com/media/QWOSiVuUuNAJHXv0FX/giphy.gif?cid=ecf05e47eaqme9hxoleim882hxdoiwi3afjqs99ib3erllgo&rid=giphy.gif&ct=s" alt="photoshop" width="60" height="60"/>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="100" top="20px"/>
-<div>  
-  
-
-
-
+<div> 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee" /></a><a href="https://ko-fi.com/Tracy-miranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tracy-miranja" /></a></p><br><br>
