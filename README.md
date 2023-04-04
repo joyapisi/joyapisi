@@ -18,7 +18,7 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
 
-[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyapisi)](https://github.com/joyapisi/github-readme-stats)
+[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyapisi&theme=bear)](https://github.com/joyapisi/github-readme-stats)
 
 ### Languages & Tools
 <div display="flex" gap="20px">
