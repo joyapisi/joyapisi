@@ -16,7 +16,7 @@
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/joyapisi?style=social" height="30px">
  <a href="https://www.twitter.com/joyapisi">
   
- <img alt="Email" src="https://media2.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif?cid=ecf05e47ukipqaw1s1qmrzmyeqcu30c1a5r1a9qvi367pawc&rid=giphy.gif&ct=s" height="40px" width="40px">
+ <img alt="Email" src="https://media2.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif?cid=ecf05e47ukipqaw1s1qmrzmyeqcu30c1a5r1a9qvi367pawc&rid=giphy.gif&ct=s" height="60px" width="55px">
  <a href="joyapisi@gmail.com">
 </div> 
   
