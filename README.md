@@ -3,7 +3,7 @@
 <img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s">
 
  
-- 👩🏾‍💻 I'm skilled in  vanilla JavaScript, HTML & CSS
+- 👩🏾‍💻 I'm skilled in  vanilla JavaScript, BootStrap, Webpack, HTML & CSS
 - 🌱 I’m currently learning ReactJS and Ruby
 - 👯 I’m looking to collaborate on any javascript project (React, Redux)
 - 😄 Pronouns: she/her 
