@@ -1,6 +1,6 @@
 ### <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <h4> I'm Joy Phoebe </h4>
-<img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s">
+<img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" width="480px" height="300px">
 
  
 - 👩🏾‍💻 I'm skilled in  vanilla JavaScript, BootStrap, Webpack, HTML & CSS
@@ -38,6 +38,12 @@
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47upfsfvg32ba1ig27jzwq3bsmzjxqxadwgimxbtiq&rid=giphy.gif&ct=s" alt="javascript" width="60" height="60"/>
  
 <img src="https://media0.giphy.com/media/QWOSiVuUuNAJHXv0FX/giphy.gif?cid=ecf05e47eaqme9hxoleim882hxdoiwi3afjqs99ib3erllgo&rid=giphy.gif&ct=s" alt="photoshop" width="60" height="60"/>
+ 
+<img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e475j6jl260n5lb2f2qs3crvo95c9eil49g2u48pos4&rid=giphy.gif&ct=s" alt="HTML" width="60" height="60"/>
+ 
+<img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e4784aiax4lnnabpml1bhpqhk6hwdxpvj1htr7h2jqa&rid=giphy.gif&ct=s" alt="HTML" width="60" height="60"/>
+ 
+<img src="https://media1.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e477832wpsdahgw6ds65os78lhc0gekvzk4xl1xkqh8&rid=giphy.gif&ct=s" alt="HTML" width="60" height="60"/>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="100" top="20px"/>
 <div> 
