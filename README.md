@@ -18,6 +18,8 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joyapisi&background=45%2C7CC3EB%2CEB5454)](https://git.io/streak-stats)
 
+[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyapisi)](https://github.com/joyapisi/github-readme-stats)
+
 ### Languages & Tools
 <div display="flex" gap="20px">
   <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
