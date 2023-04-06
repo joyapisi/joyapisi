@@ -1,6 +1,6 @@
 ### <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <h4> I'm Joy Phoebe </h4>
-<img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" width="480px" height="300px">
+<img src= "https://media3.giphy.com/media/GRgLOxPTSQ8r3SS0n7/giphy.gif?cid=ecf05e47hv19zro1mvurp1f7hdx3dnp834nimkb63e6fk5pa&rid=giphy.gif&ct=s" width="480px" height="280px">
 
  
 - 👩🏾‍💻 I'm skilled in  vanilla JavaScript, BootStrap, Webpack, HTML & CSS
