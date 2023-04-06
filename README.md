@@ -37,7 +37,7 @@
  
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47upfsfvg32ba1ig27jzwq3bsmzjxqxadwgimxbtiq&rid=giphy.gif&ct=s" alt="javascript" width="60" height="60"/>
  
-<img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e479m8s5k7j4731jkoxbhhi916ghgcwftuq3327ibb7&rid=giphy.gif&ct=s" alt="git" width="60" height="60"/>
+<img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e479m8s5k7j4731jkoxbhhi916ghgcwftuq3327ibb7&rid=giphy.gif&ct=s" alt="git" width="80" height="60"/>
  
 <img src="https://media0.giphy.com/media/QWOSiVuUuNAJHXv0FX/giphy.gif?cid=ecf05e47eaqme9hxoleim882hxdoiwi3afjqs99ib3erllgo&rid=giphy.gif&ct=s" alt="photoshop" width="60" height="60"/>
  
