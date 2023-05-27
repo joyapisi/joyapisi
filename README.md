@@ -32,11 +32,11 @@
 ### Languages & Tools
 <div display="flex" gap="20px">
  
- <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
+<img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
  
 <img src="https://media1.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e47vc6iy2qu3dkgirwhqj0uqv32auo7xgvhi4elth10&rid=giphy.gif&ct=s" alt="react" width="60" height="60"/>
- 
-<!-- <img src="[https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s](https://media3.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e479vih3ug11lgtve81w4rtxj6o55b7s7vio753wdvr&ep=v1_gifs_related&rid=giphy.gif&ct=s)" alt="bootstrap" width="60" height="60"/> -->
+
+<img src="./sources/redux.png" alt="redux" width="60" height="60"/>
  
 <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
  
@@ -54,6 +54,8 @@
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="100" top="20px"/>
 <div> 
+
+<img src="./sources/figma.png" alt="webpack" width="40" height="50" top="20px"/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me coffee" /></a><a href="https://ko-fi.com/Tracy-miranja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tracy-miranja" /></a></p><br><br>
