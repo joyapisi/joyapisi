@@ -34,9 +34,9 @@
  
  <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
  
-<!-- <img src="https://media1.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e47vc6iy2qu3dkgirwhqj0uqv32auo7xgvhi4elth10&rid=giphy.gif&ct=s" alt="react" width="60" height="60"/> -->
+<img src="https://media1.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e47vc6iy2qu3dkgirwhqj0uqv32auo7xgvhi4elth10&rid=giphy.gif&ct=s" alt="react" width="60" height="60"/>
  
-<img src="[https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s](https://media3.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e479vih3ug11lgtve81w4rtxj6o55b7s7vio753wdvr&ep=v1_gifs_related&rid=giphy.gif&ct=s)" alt="bootstrap" width="60" height="60"/>
+<!-- <img src="[https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s](https://media3.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e479vih3ug11lgtve81w4rtxj6o55b7s7vio753wdvr&ep=v1_gifs_related&rid=giphy.gif&ct=s)" alt="bootstrap" width="60" height="60"/> -->
  
 <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
  
