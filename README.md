@@ -36,7 +36,7 @@
  
 <img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e475x6c5zg2r9orarpj8pz81pe4h7kba2dce8xofaib&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="react" width="50" height="50"/>
 
-<img src="./sources/redux.png" alt="redux" width="70" height="70"/>
+<img src="./sources/redux.png" alt="redux" width="67" height="50"/>
  
 <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
  
