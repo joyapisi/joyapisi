@@ -34,9 +34,9 @@
  
 <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
  
-<img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e475x6c5zg2r9orarpj8pz81pe4h7kba2dce8xofaib&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="react" width="60" height="60"/>
+<img src="https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e475x6c5zg2r9orarpj8pz81pe4h7kba2dce8xofaib&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="react" width="50" height="50"/>
 
-<img src="./sources/redux.png" alt="redux" width="60" height="60"/>
+<img src="./sources/redux.png" alt="redux" width="70" height="70"/>
  
 <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
  
