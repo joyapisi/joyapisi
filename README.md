@@ -36,6 +36,8 @@
  
 <!-- <img src="https://media1.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e47vc6iy2qu3dkgirwhqj0uqv32auo7xgvhi4elth10&rid=giphy.gif&ct=s" alt="react" width="60" height="60"/> -->
  
+<img src="[https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s](https://media3.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=ecf05e479vih3ug11lgtve81w4rtxj6o55b7s7vio753wdvr&ep=v1_gifs_related&rid=giphy.gif&ct=s)" alt="bootstrap" width="60" height="60"/>
+ 
 <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e4775juwr8w1ds7qt6ag75t3483ygj1zpjv66x56iq8&rid=giphy.gif&ct=s" alt="bootstrap" width="60" height="60"/>
  
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47upfsfvg32ba1ig27jzwq3bsmzjxqxadwgimxbtiq&rid=giphy.gif&ct=s" alt="javascript" width="60" height="60"/>
