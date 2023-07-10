@@ -33,9 +33,9 @@
 <div display="flex" gap="20px">
  
 
-<img src="./sources/ruby-icon.jpg" alt="webpack" width="40" height="50" top="20px"/>
+<img src="./sources/ruby-icon.jpg" alt="ruby" width="40" height="40" top="20px"/>
 
-<img src="./sources/rails-icon.jpg" alt="webpack" width="40" height="50" top="20px"/>
+<img src="./sources/rails-icon.jpg" alt="rails" width="60" height="80" top="20px"/>
 
 <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e479q1mee804uznx4nkwztimemxy10lmyam7ic3bs2c&rid=giphy.gif&ct=s" alt="nodejs" width="60" height="60"/>
  
